@@ -1,9 +1,0 @@
-# Processing Code
-
-This is the Processing library. It has a [Firmata](http://firmata.org) dependency, so you will need to install the [processing lib](https://github.com/pardo-bsso/processing-arduino), and also install the Firmata firmware on your arduino (in arduino IDE: File -> Open -> Examples > Library-Firmata > StandardFirmata.)
-
-Once you have done these 2 things, put the processing/libraries/arduinoscope folder in your processing libraries folder (on mac: `~/Documents/Processing/libraries`.)
-
-You will also need to install [controlP5](http://www.sojamo.de/libraries/controlP5/#installation) to get examples to work.
-
-Now, restart processing, and you should have an arduinoscope example (under File/Examples.) This is the source for the stand-alone apps.

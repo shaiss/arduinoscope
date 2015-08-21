@@ -5,11 +5,11 @@ import arduinoscope.*;
 
 Arduino arduino;
 ControlP5 cp5;
-Oscilloscope[] scopes = new Oscilloscope[6];
+Oscilloscope[] scopes = new Oscilloscope[4];
 float multiplier;
 
 void setup(){
-  size(800, 800);
+  size(1900, 1000);
   ControlP5 cp5 = new ControlP5(this);
   frame.setTitle("Arduinoscope");
   
