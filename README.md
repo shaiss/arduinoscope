@@ -1,3 +1,5 @@
+//This repo has been forked from the original to accomodate changes in GUI and possible changes to reolution
+
 # Arduinoscope
 
 This is the current version of my Arduino-powered, low-resolution, multi-channel oscilliscope. I made 2 frontends, that both speak [firmata](http://firmata.org), so you will need to install the Firmata firmware on your Arduino (File -> Open -> Examples > Library-Firmata > StandardFirmata, in latest Arduino IDE.)
