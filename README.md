@@ -3,6 +3,8 @@ The below is a 63Hz PWM signal with the current arduinoscope version.  Goal woul
 
 ![PWM](http://s24.postimg.org/7yux62xv9/oscope.png)
 
+Credits go to https://github.com/konsumer/arduinoscope for the original arduinoscope
+
 # Arduinoscope
 
 This is the current version of my Arduino-powered, low-resolution, multi-channel oscilliscope. I made 2 frontends, that both speak [firmata](http://firmata.org), so you will need to install the Firmata firmware on your Arduino (File -> Open -> Examples > Library-Firmata > StandardFirmata, in latest Arduino IDE.)
