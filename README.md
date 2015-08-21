@@ -1,4 +1,6 @@
 //This repo has been forked from the original to accomodate changes in GUI and possible changes to reolution
+The below is a 63Hz PWM signal with the current arduinoscope version.  Goal would be to allow the user to zoom in to better see the signal.
+![PWM](http://s24.postimg.org/7yux62xv9/oscope.png)
 
 # Arduinoscope
 
